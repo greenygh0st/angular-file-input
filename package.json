@@ -1,6 +1,6 @@
 {
   "name": "angular-file-input",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A simple module for Angular 1 which allows ng-model to be used with file inputs.",
   "main": "angular-file-input.js",
   "scripts": {
