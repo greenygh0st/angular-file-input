@@ -19,7 +19,7 @@ npm i angular-file-input --save
 ##### Import in your module definition
 
 ```js
-angular.module('app', ['ng-file-input']);
+angular.module('app', ['angular-file-input']);
 ```
 
 And you're done :)
