@@ -18,6 +18,7 @@
                     else {
                         ngModel.$setViewValue(input.files[0]);
                     }
+                    input.value = '';
                 });
             }
         }
