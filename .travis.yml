@@ -1,7 +1,0 @@
-deploy:
-  provider: npm
-  api_key:
-    secure: SQ/upwRaRtw0B5GUfZI15sOc8/wJ2y0G+AhtE9XAIfo7H4Ls6Eyw1H89I8ru7SL8+/5CxCTNVy9yNcDPQfPejlkRIFffG9M64txwViBh5ocy1tIUtripOFPVLq9nfD3OFy46wDUj/t9cxE/poSdTuKx0YlLMah5DpKmBHyI64/0+QfLRSr3HR1MQ1TEq/uHxGyBE5Qzs04WAhX9Dm192aVu5gaNcKPZB7TEPhvM+gZ7pv+ftCJ7ib0EcP7H2Il3nY+H3j3N4QoDRh+z6rFZT7CFyuR505ksHBsb8Q1iWoxMGuplSvX9mXyZ2RcaAoTTh383AzzVnNHcIb7lrbiUgjzRN3tLbqMsAEffny542FfrBH8wxQYJfO8qg3W7DPGCNhuIbpjdzeWA8lXDAuGg8BDIGu8ogE9ccgkexGWE8lNqq6+roHmfvObBOaxo9HNJIt5FtdoxxnWffXwrVh4OVDSu6qr8R1YoCyz2u4ZlqNmqmULQwg/bv+CpDVQq+60278iGVz5XOUxqHzFF2Cxt93HVt9byhfpIqKB5pP6jDoZmik9JD5q/r1hwh//EBJHlDm65MfXSgwbbMsWDsCN+1xB+vVgEfZgKJ0PMcQr/+RNxiNvm+rBDSuKmDL63s92p3547+Jljktch/GWcHuwhRdfXaaCbA/p08T3Hju7688lQ=
-  on:
-    tags: true
-    repo: greenygh0st/angular-file-input

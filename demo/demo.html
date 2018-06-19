@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Angular File Input Demo</title>
+  </head>
+  <body ng-app="app">
+    <div ng-controller="ctrl">
+      <div>
+          <input type="file" ng-model="file">
+      </div>
+      <div>
+        file: {{file.name}}
+      </div>
+    </div>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.6.5/angular.js" charset="utf-8"></script>
+    <script src="../dist/angular-file-input.js" charset="utf-8"></script>
+    <script type="text/javascript">
+    var app = angular.module('app', ['angular-file-input']);
+    app.controller('ctrl', ['$scope', function($scope) {
+      // dont need anything here
+    }]);
+    </script>
+  </body>
+</html>
